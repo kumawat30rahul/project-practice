@@ -1,4 +1,4 @@
-# project-practice --------------------------------------------------------------------------//
+# Project-practice (P1)----------------------------------------//
 
 Question i asked on the chatGpt: So now give a project question, which should contain navigating 5 different pages, and give some ui and functionaltiy for each page, and give functionality in such a way that there is use of objects of data and passing the data from one page to another, the question should be interesting
 
@@ -239,6 +239,19 @@ If you want to use API then go ahead, otherwise here is the data of recipes:
     taste: "savory"
 }
 ]
+
+
+#Project-Practice(p2)----------------------------------------//
+
+Design a system for a sports club to manage its members, games and performance.
+
+1.Create a database for the club's members that includes information such as name, contact information, preferred sport, and playing level.
+2.Design a way for club members to RSVP for games and events, and view their schedule.
+3.Develop a way to track the club's overall performance by recording scores and game statistics, and generating reports and graphs to analyze the performance of individual players and teams.
+4.Implement a system for the coaches to input feedback and ratings for each player after each game, and provide a way for members to view and track their own performance over time.
+5.Integrate a payment system for members to pay their monthly or annual fees and register for events.
+6.Create a news section where members can access news, updates and announcements regarding the club, games and events.
+7.Provide a messaging system where members can communicate with each other, the coaches and the club administrators.
 
 
 
